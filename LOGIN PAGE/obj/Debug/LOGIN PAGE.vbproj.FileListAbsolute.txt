@@ -1,0 +1,13 @@
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\bin\Debug\LOGIN PAGE.exe.config
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\bin\Debug\LOGIN PAGE.exe
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\bin\Debug\LOGIN PAGE.pdb
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\bin\Debug\LOGIN PAGE.xml
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\bin\Debug\MaterialSkin.dll
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\obj\Debug\LOGIN PAGE.vbprojResolveAssemblyReference.cache
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\obj\Debug\LOGIN_PAGE.Form1.resources
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\obj\Debug\LOGIN_PAGE.Resources.resources
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\obj\Debug\LOGIN PAGE.vbproj.GenerateResource.Cache
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\obj\Debug\LOGIN PAGE.exe
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\obj\Debug\LOGIN PAGE.xml
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\obj\Debug\LOGIN PAGE.pdb
+C:\Users\SIZIWE\Documents\Visual Studio 2015\Projects\LOGIN PAGE\LOGIN PAGE\obj\Debug\LOGIN_PAGE.newdetails.resources
